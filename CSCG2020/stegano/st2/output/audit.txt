@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Apr  3 20:04:26 2020
+Invocation: foremost chall.jpg 
+Output directory: /pwd/st2/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: chall.jpg
+Start: Fri Apr  3 20:04:26 2020
+Length: 279 KB (286504 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     279 KB 	          0 	 
+Finish: Fri Apr  3 20:04:26 2020
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Apr  3 20:04:26 2020
