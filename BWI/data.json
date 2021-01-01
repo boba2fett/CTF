@@ -1,0 +1,25 @@
+{
+    "items":
+    [
+        {"name":"Notebook Büro 13\"", "amount": 205, "weight": 2451, "value": 40},
+        {"name":"Notebook Büro 14\"", "amount": 420, "weight": 2978, "value": 35},
+        {"name":"Notebook outdoor", "amount": 450, "weight": 3625, "value": 80},
+        {"name":"Mobiltelefon Büro", "amount": 60, "weight": 717, "value": 30},
+        {"name":"Mobiltelefon Outdoor", "amount": 157, "weight": 988, "value": 60},
+        {"name":"Mobiltelefon Heavy Duty", "amount": 220, "weight": 1220, "value": 65},
+        {"name":"Tablet Büro klein", "amount": 620, "weight": 1405, "value": 40},
+        {"name":"Tablet Büro groß", "amount": 250, "weight": 1455, "value": 40},
+        {"name":"Tablet outdoor klein", "amount": 540, "weight": 1690, "value": 45},
+        {"name":"Tablet outdoor groß", "amount": 370, "weight": 1980, "value": 68}
+    ],
+    "transporters":
+    [
+        {"capacity": 1100000, "items":[], "driver": {}, "acc_value": 0, "load": 0},
+        {"capacity": 1100000, "items":[], "driver": {}, "acc_value": 0, "load": 0}
+    ],
+    "drivers":
+    [
+        {"weight": 72400},
+        {"weight": 85700}
+    ]
+}

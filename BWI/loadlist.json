@@ -1,0 +1,58 @@
+[
+    {
+        "capacity": 1100000,
+        "items": [
+            {
+                "name": "Mobiltelefon Outdoor",
+                "amount": 157,
+                "weight": 988,
+                "value": 60
+            },
+            {
+                "name": "Mobiltelefon Heavy Duty",
+                "amount": 220,
+                "weight": 1220,
+                "value": 65
+            },
+            {
+                "name": "Mobiltelefon B\u00fcro",
+                "amount": 60,
+                "weight": 717,
+                "value": 30
+            },
+            {
+                "name": "Tablet outdoor gro\u00df",
+                "amount": 283,
+                "weight": 1980,
+                "value": 68
+            }
+        ],
+        "driver": {
+            "weight": 72400
+        },
+        "acc_value": 44764,
+        "load": 1099276
+    },
+    {
+        "capacity": 1100000,
+        "items": [
+            {
+                "name": "Tablet outdoor gro\u00df",
+                "amount": 87,
+                "weight": 1980,
+                "value": 68
+            },
+            {
+                "name": "Tablet B\u00fcro klein",
+                "amount": 599,
+                "weight": 1405,
+                "value": 40
+            }
+        ],
+        "driver": {
+            "weight": 85700
+        },
+        "acc_value": 29876,
+        "load": 1099555
+    }
+]
