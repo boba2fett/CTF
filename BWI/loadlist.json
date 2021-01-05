@@ -16,7 +16,7 @@
             },
             {
                 "name": "Mobiltelefon B\u00fcro",
-                "amount": 60,
+                "amount": 59,
                 "weight": 717,
                 "value": 30
             },
@@ -25,13 +25,19 @@
                 "amount": 283,
                 "weight": 1980,
                 "value": 68
+            },
+            {
+                "name": "Tablet B\u00fcro klein",
+                "amount": 1,
+                "weight": 1405,
+                "value": 40
             }
         ],
         "driver": {
             "weight": 72400
         },
-        "acc_value": 44764,
-        "load": 1099276
+        "acc_value": 44774,
+        "load": 1099964
     },
     {
         "capacity": 1100000,
@@ -44,15 +50,27 @@
             },
             {
                 "name": "Tablet B\u00fcro klein",
-                "amount": 599,
+                "amount": 597,
                 "weight": 1405,
                 "value": 40
+            },
+            {
+                "name": "Tablet B\u00fcro gro\u00df",
+                "amount": 1,
+                "weight": 1455,
+                "value": 40
+            },
+            {
+                "name": "Tablet outdoor klein",
+                "amount": 1,
+                "weight": 1690,
+                "value": 45
             }
         ],
         "driver": {
             "weight": 85700
         },
-        "acc_value": 29876,
-        "load": 1099555
+        "acc_value": 29881,
+        "load": 1099890
     }
 ]
