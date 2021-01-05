@@ -36,9 +36,9 @@ python3 load.py data.json -o loadlist.json
 ```
 
 ### Solution
-The solution is already in `loadlist.json` with a value of 74640.
+The solution is already in `loadlist.json` with a value of 74655.
 
-Of course the best would be a whole bruteforce atempt on which items to take with, but there are too many possibilities to consider, so we just bruteforce the best combination of drivers and transporters and witch transporter to start with loading the best value per weight items, but with a capacity use of 99.94%, I think there is no better solution.
+Of course the best would be a whole bruteforce atempt on which items to take with, but there are too many possibilities to consider, so we just bruteforce the best combination of drivers and transporters and witch transporter to start with loading the best value per weight items. After that we try to use the capacity to the end and with 99.993%, I think there is no better solution.
 
 The solution is held general not only to solve this load problem, but any presented in the right json format.
 
@@ -80,8 +80,8 @@ python3 load.py data.json -o loadlist.json
 ```
 
 ### Lösung
-Die Lösung befindet sich bereits in `loadlist.json` mit einem Wert von 74640.
+Die Lösung befindet sich bereits in `loadlist.json` mit einem Wert von 74655.
 
-Die perfekte Lösung wäre natürlich alle Kombinationen der Hardware Teile durchzuprobieren, dafür sind es aber deutlich zu viele Möglichkeiten, deshalb werden nur die Fahrer über die Transporter rotiert und die Reihenfolge der Transporter in die die besten Teile basierend auf dem Wert pro Gewicht geladen werden durchprobiert.
+Die perfekte Lösung wäre natürlich alle Kombinationen der Hardware Teile durchzuprobieren, dafür sind es aber deutlich zu viele Möglichkeiten, deshalb werden nur die Fahrer über die Transporter rotiert und die Reihenfolge der Transporter in die die besten Teile basierend auf dem Wert pro Gewicht geladen werden durchprobiert. Danach wird versucht die Kapacität voll auszunutzen was mit 99.993% auch gelingt.
 
 Die Lösung ist generell gehalten um auch mit andere Eingaben in Form von json zu akzeptieren.
